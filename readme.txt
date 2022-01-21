@@ -4,5 +4,5 @@ Tools Used :- Vanilla JS, HTML, CSS
 Author :- Cupid Chakma
 
 Steps To Install The Project :- 
-1. git clone https://github.com/cuchakma/Chatbox.git
+1. git clone https://github.com/cuchakma/Music-Player.git
 2. simply run from your browser after placing the file in your localhost
