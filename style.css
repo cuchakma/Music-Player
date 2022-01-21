@@ -39,7 +39,7 @@ body {
 /* black sircle */
 .img-container::after {
 	content: '';
-	background-color: black;
+	background-color: #fff;
 	height: 25px;
 	width: 25px;
 	position: absolute;
